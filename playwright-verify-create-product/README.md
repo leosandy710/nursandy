@@ -26,18 +26,23 @@ npm install
 npx playwright install
 
 ▶️ Running Tests
-Standard Test Execution
+
+<b>Standard Test Execution</b>
+
 Use the following commands to run the full test suite:
-| Command | Description
-| npm run test | "Runs tests on Chromium (default), in headless mode."
-| npm run test:ui | Opens the Playwright UI mode for debugging and interactive testing.
-| npm run test:headed | Runs tests on all configured browsers in visible mode.
-| npm run test:smoke | Runs tests tagged with @smoke only.
 
-Running Specific Tests
+| Command | Description |
+| :--- | :--- |
+| npm run test | "Runs tests on Chromium (default), in headless mode." |
+| npm run test:ui | Opens the Playwright UI mode for debugging and interactive testing. |
+| npm run test:headed | Runs tests on all configured browsers in visible mode. |
+| npm run test:smoke | Runs tests tagged with @smoke only. |
+
+<b>Running Specific Tests</b>
+
 To run tests by file path or tag:
-# Run tests from a specific file
-npx playwright test tests/2. Create New Product.spec.ts
+Run tests from a specific file
+- npx playwright test tests/2. Create New Product.spec.ts
 
-# Run tests containing a specific title/tag
-npx playwright test --grep "@critical"
+Run tests containing a specific title/tag
+- npx playwright test --grep "@critical"

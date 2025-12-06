@@ -19,13 +19,13 @@ I focus on tools and technologies that drive efficient and effective testing:
 🚀 Projects & Contributions
 Here are a few highlights of my work (or links to relevant repositories):
 
-[Project Name/Repository Link]: Create Product in POS Application
+https://github.com/leosandy710/nursandy/tree/95680a11199fa1e21a01ab319d8b01214e905c0a/playwright-verify-create-product: Create Product in POS Application
 
-- Developed a complete E2E test suite covering critical user flows (Login, Product Create, Product Validation, Payment simulation).
+- Developed a complete E2E test suite covering critical user flows (Login, Product Create, Product Validation, Product Delete).
 
 - Integrated Page Object Model (POM) structure for maintainability and scalability.
 
-- Achieved 98% test stability across Chrome, Firefox, and WebKit.
+- Achieved 98% test stability across Chrome and Firefox
 
 💡 What I'm Learning Next
 I believe in continuous learning. Currently exploring:
