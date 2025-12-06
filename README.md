@@ -34,7 +34,7 @@ I believe in continuous learning. Currently exploring:
 
 - Integrating AI-powered test maintenance tools.
 
-- Advanced techniques for handling complex scenarios like file uploads and iframe interactions in Playwright.
+- Integrating to CI/CD Pipeline.
 
 🌐 Let's Connect!
 
