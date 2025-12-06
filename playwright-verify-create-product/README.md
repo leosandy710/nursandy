@@ -28,11 +28,11 @@ npx playwright install
 ▶️ Running Tests
 Standard Test Execution
 Use the following commands to run the full test suite:
-| Command | Description
-| npm run test | "Runs tests on Chromium (default), in headless mode."
-| npm run test:ui | Opens the Playwright UI mode for debugging and interactive testing.
-| npm run test:headed | Runs tests on all configured browsers in visible mode.
-| npm run test:smoke | Runs tests tagged with @smoke only.
+| Command | Description |
+| npm run test | "Runs tests on Chromium (default), in headless mode." |
+| npm run test:ui | Opens the Playwright UI mode for debugging and interactive testing. |
+| npm run test:headed | Runs tests on all configured browsers in visible mode. |
+| npm run test:smoke | Runs tests tagged with @smoke only. |
 
 Running Specific Tests
 To run tests by file path or tag:
