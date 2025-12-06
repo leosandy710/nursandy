@@ -40,3 +40,6 @@ I believe in continuous learning. Currently exploring:
 
 - LinkedIn: http://www.linkedin.com/in/nursandy-tan
 - Email: nursandy@dealpos.com
+
+✍️ Fun Fact
+When I'm not writing automation scripts, I enjoy playing football, drinking coffee and watching movies.
