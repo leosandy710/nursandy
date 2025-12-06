@@ -1,1 +1,0 @@
-export const tokenUtil = (storageState: { origins: { localStorage: { name: string, value: string }[] }[] }) => storageState.origins[0].localStorage.find(r => r.name === 'Token')?.value as string
