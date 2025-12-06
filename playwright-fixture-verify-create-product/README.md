@@ -24,8 +24,8 @@ cd [your-repo-name]
 
 2. Install Dependencies
 Install all the necessary packages and Playwright browser drivers:
-npm install
-npx playwright install
+- npm install
+- npx playwright install
 
 ▶️ Running Tests
 
